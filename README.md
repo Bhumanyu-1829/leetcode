@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Bhumanyu-1829/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [1480-running-sum-of-1d-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhumanyu-1829/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
