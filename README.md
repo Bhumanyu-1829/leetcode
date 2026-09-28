@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Bhumanyu-1829/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bhumanyu-1829/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bhumanyu-1829/leetcode/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bhumanyu-1829/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
 | ------- |
@@ -63,4 +65,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Bhumanyu-1829/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Bhumanyu-1829/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
