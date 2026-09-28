@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bhumanyu-1829/leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Bhumanyu-1829/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
 | [1470-shuffle-the-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1470-shuffle-the-array) |
@@ -64,6 +65,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bhumanyu-1829/leetcode/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Bhumanyu-1829/leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhumanyu-1829/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Bhumanyu-1829/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
