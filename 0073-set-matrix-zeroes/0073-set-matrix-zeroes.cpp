@@ -23,6 +23,7 @@ public:
             for(int i =0;i<cols;i++)
             {
                 matrix[val][i]=0;
+                // cout << "123\n";
             }
         }
 
@@ -31,6 +32,7 @@ public:
             int val = *it;
             for(int i =0;i<rows;i++)
             {
+                // cout << "123\n";
                 matrix[i][val]=0;
             }
         }
