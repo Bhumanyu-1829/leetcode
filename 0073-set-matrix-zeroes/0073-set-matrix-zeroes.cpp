@@ -24,6 +24,7 @@ public:
             {
                 matrix[val][i]=0;
             }
+            cout << "123\n";
         }
 
         // setting coloumn zero
