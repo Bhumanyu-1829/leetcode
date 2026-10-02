@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Bhumanyu-1829/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhumanyu-1829/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Bhumanyu-1829/leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Bhumanyu-1829/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Bhumanyu-1829/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhumanyu-1829/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhumanyu-1829/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Bhumanyu-1829/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Bhumanyu-1829/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
