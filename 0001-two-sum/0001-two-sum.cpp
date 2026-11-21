@@ -13,6 +13,7 @@ public:
                 mpp[nums[i]]=i;
             }
         }
+        // optimized hai
         return {};
     }
 };
