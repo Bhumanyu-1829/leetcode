@@ -19,14 +19,12 @@ public:
                 if(mpp.count(diff))
                 {
                    vector<int> triplet = {nums[i], nums[j], diff};
-                  
-                    s.insert(triplet);
+                s.insert(triplet);
                 }
                 mpp[nums[j]]=j;
             }
         }
 
-        vector<vector<int>> copy(s.begin(), s.end());
-        return copy;
+        return vector<vector<int>>(s.begin(), s.end());
     }
 };
