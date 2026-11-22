@@ -18,8 +18,8 @@ public:
                 int diff = -nums[i] - nums[j];
                 if(mpp.count(diff))
                 {
-                   vector<int> triplet = {nums[i], nums[j], diff};
-                s.insert(triplet);
+                    s.insert({nums[i],nums[j],diff});
+                
                 }
                 mpp[nums[j]]=j;
             }
