@@ -19,7 +19,7 @@ public:
                 if(mpp.count(diff))
                 {
                    vector<int> triplet = {nums[i], nums[j], diff};
-                   sort(triplet.begin(), triplet.end());
+                  
                     s.insert(triplet);
                 }
                 mpp[nums[j]]=j;
