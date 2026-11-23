@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Bhumanyu-1829/leetcode/tree/master/0228-summary-ranges) |
+| [0485-max-consecutive-ones](https://github.com/Bhumanyu-1829/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Bhumanyu-1829/leetcode/tree/master/1920-build-array-from-permutation) |
