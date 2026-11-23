@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Bhumanyu-1829/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhumanyu-1829/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Bhumanyu-1829/leetcode/tree/master/0228-summary-ranges) |
 | [1470-shuffle-the-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhumanyu-1829/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Bhumanyu-1829/leetcode/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0507-perfect-number) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Bhumanyu-1829/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Bhumanyu-1829/leetcode/tree/master/3870-count-commas-in-range) |
@@ -112,4 +114,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Bhumanyu-1829/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
