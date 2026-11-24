@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Bhumanyu-1829/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhumanyu-1829/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Bhumanyu-1829/leetcode/tree/master/0228-summary-ranges) |
 | [0485-max-consecutive-ones](https://github.com/Bhumanyu-1829/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhumanyu-1829/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhumanyu-1829/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bhumanyu-1829/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Quicksort
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Bhumanyu-1829/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Bhumanyu-1829/leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0507-perfect-number) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Bhumanyu-1829/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
