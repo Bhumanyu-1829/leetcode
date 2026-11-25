@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Bhumanyu-1829/leetcode/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Bhumanyu-1829/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhumanyu-1829/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhumanyu-1829/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhumanyu-1829/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Bhumanyu-1829/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0507-perfect-number) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Bhumanyu-1829/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Bhumanyu-1829/leetcode/tree/master/3870-count-commas-in-range) |
@@ -114,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhumanyu-1829/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -138,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
