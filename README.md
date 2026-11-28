@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0204-count-primes) |
 | [0228-summary-ranges](https://github.com/Bhumanyu-1829/leetcode/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/Bhumanyu-1829/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Bhumanyu-1829/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/1470-shuffle-the-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhumanyu-1829/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Bhumanyu-1829/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bhumanyu-1829/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhumanyu-1829/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
@@ -44,16 +46,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Bhumanyu-1829/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhumanyu-1829/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bhumanyu-1829/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Bhumanyu-1829/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bhumanyu-1829/leetcode/tree/master/0229-majority-element-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Bhumanyu-1829/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhumanyu-1829/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Bhumanyu-1829/leetcode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
